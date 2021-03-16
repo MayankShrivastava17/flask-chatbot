@@ -12,14 +12,10 @@ Chatbot using flask.
 
 ## How to run
 
-- Install the requirement
+- Ensure that requirement are installed
    Open terminal/command window and type :
    
-  `pip install chattbot` 
-  
-  `pip install chatterbot-corpus`
-  
-  `pip install flask`
+  `pip install -r requirements.txt`
 
 - Clone the project and run :
 
